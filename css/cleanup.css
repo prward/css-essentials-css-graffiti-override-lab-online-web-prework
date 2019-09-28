@@ -2,5 +2,4 @@
 #wall .tag-1 {
   display: none;
 }
-
-$(#div).remove();
+#div.remove();
